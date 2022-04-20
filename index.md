@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="70%" height="auto" src="resources/fig2.gif">
+  <img width="85%" height="auto" src="resources/fig2.gif">
 </p>
 
 <p align="center">
-  <img width="70%" height="auto" src="resources/fig3.gif">
+  <img width="85%" height="auto" src="resources/fig3.gif">
 </p>
 <p align="center">
 Two examples of synthetic action sequences. Upper sequence indicates the Cough action category, while below sequence indicates the Blow nose action category.
@@ -17,7 +17,7 @@ Over the past two years, Coronavirus disease 2019 (COVID-19) caused a significan
 # Overview
 
 <p align="center">
-  <img width="70%" height="auto" src="resources/fig1.png">
+  <img width="85%" height="auto" src="resources/fig1.png">
 </p>
 <p align="center">
 Overview of the proposed method. Subfigure (a) indicates the original StyleGAN2 generation approach. Subfigure (b) indicates the proposed method.
